@@ -2,4 +2,6 @@ streamlit
 qrcode[pil]
 gtts
 uuid
+pillow
+
 
